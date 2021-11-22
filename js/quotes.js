@@ -4,23 +4,23 @@ const quotes = [
         author: "Benjamin Franklin",
     },
     {
-        quote: "Life is not fair, get used to it",
+        quote: "Life is not fair, get used to it.",
         author: "Bill Gates",
     },
     {
-        quote: "Age is no guarantee of maturity",
+        quote: "Age is no guarantee of maturity.",
         author: "Lawana Blackwell",
     },
     {
-        quote: "What do you want a meaning for? Life is a desire, not a meaning",
+        quote: "What do you want a meaning for? Life is a desire, not a meaning.",
         author: "Charlie Chaplin",
     },
     {
-        quote: "It is not always the same thing to be a good man and a good citizen",
+        quote: "It is not always the same thing to be a good man and a good citizen.",
         author: "Aristotle",
     },
     {
-        quote: "The gratification comes in the doing, not in the results",
+        quote: "The gratification comes in the doing, not in the results.",
         author: "James Dean",
     },
 ]
